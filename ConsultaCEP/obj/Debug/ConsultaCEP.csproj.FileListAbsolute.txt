@@ -1,0 +1,15 @@
+c:\users\nielsenteixeira\documents\visual studio 2010\Projects\ConsultaCEP\ConsultaCEP\obj\Debug\ResolveAssemblyReference.cache
+c:\users\nielsenteixeira\documents\visual studio 2010\Projects\ConsultaCEP\ConsultaCEP\bin\ConsultaCEP.dll
+c:\users\nielsenteixeira\documents\visual studio 2010\Projects\ConsultaCEP\ConsultaCEP\bin\ConsultaCEP.pdb
+c:\users\nielsenteixeira\documents\visual studio 2010\Projects\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.dll
+c:\users\nielsenteixeira\documents\visual studio 2010\Projects\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.pdb
+D:\Projetos\ConsultaCEP\ConsultaCEP\bin\ConsultaCEP.dll
+D:\Projetos\ConsultaCEP\ConsultaCEP\bin\ConsultaCEP.pdb
+D:\Projetos\ConsultaCEP\ConsultaCEP\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.dll
+D:\Projetos\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.pdb
+D:\Projetos\ConsultaCEP\Consulta-CEP-Correios\ConsultaCEP\bin\ConsultaCEP.dll
+D:\Projetos\ConsultaCEP\Consulta-CEP-Correios\ConsultaCEP\bin\ConsultaCEP.pdb
+D:\Projetos\ConsultaCEP\Consulta-CEP-Correios\ConsultaCEP\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\ConsultaCEP\Consulta-CEP-Correios\ConsultaCEP\obj\Debug\ConsultaCEP.dll
+D:\Projetos\ConsultaCEP\Consulta-CEP-Correios\ConsultaCEP\obj\Debug\ConsultaCEP.pdb
