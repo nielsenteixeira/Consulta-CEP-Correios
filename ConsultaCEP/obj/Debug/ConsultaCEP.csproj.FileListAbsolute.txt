@@ -1,0 +1,7 @@
+c:\users\nielsenteixeira\documents\visual studio 2010\Projects\ConsultaCEP\ConsultaCEP\bin\ConsultaCEP.dll
+c:\users\nielsenteixeira\documents\visual studio 2010\Projects\ConsultaCEP\ConsultaCEP\bin\ConsultaCEP.pdb
+c:\users\nielsenteixeira\documents\visual studio 2010\Projects\ConsultaCEP\ConsultaCEP\bin\EntityFramework.dll
+c:\users\nielsenteixeira\documents\visual studio 2010\Projects\ConsultaCEP\ConsultaCEP\bin\EntityFramework.xml
+c:\users\nielsenteixeira\documents\visual studio 2010\Projects\ConsultaCEP\ConsultaCEP\obj\Debug\ResolveAssemblyReference.cache
+c:\users\nielsenteixeira\documents\visual studio 2010\Projects\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.dll
+c:\users\nielsenteixeira\documents\visual studio 2010\Projects\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.pdb
