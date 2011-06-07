@@ -5,3 +5,11 @@ c:\users\nielsenteixeira\documents\visual studio 2010\Projects\ConsultaCEP\Consu
 c:\users\nielsenteixeira\documents\visual studio 2010\Projects\ConsultaCEP\ConsultaCEP\obj\Debug\ResolveAssemblyReference.cache
 c:\users\nielsenteixeira\documents\visual studio 2010\Projects\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.dll
 c:\users\nielsenteixeira\documents\visual studio 2010\Projects\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.pdb
+C:\Projetos\Cep\Consulta-CEP-Correios\ConsultaCEP\bin\ConsultaCEP.dll
+C:\Projetos\Cep\Consulta-CEP-Correios\ConsultaCEP\bin\ConsultaCEP.pdb
+C:\Projetos\Cep\Consulta-CEP-Correios\ConsultaCEP\bin\EntityFramework.dll
+C:\Projetos\Cep\Consulta-CEP-Correios\ConsultaCEP\bin\HtmlAgilityPack.dll
+C:\Projetos\Cep\Consulta-CEP-Correios\ConsultaCEP\bin\EntityFramework.xml
+C:\Projetos\Cep\Consulta-CEP-Correios\ConsultaCEP\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Cep\Consulta-CEP-Correios\ConsultaCEP\obj\Debug\ConsultaCEP.dll
+C:\Projetos\Cep\Consulta-CEP-Correios\ConsultaCEP\obj\Debug\ConsultaCEP.pdb
